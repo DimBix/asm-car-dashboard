@@ -5,7 +5,8 @@ To been able to run this project you will need:
 - make
 - as (the portable GNU assembler)
 
-To run the code, type:
+
+To run the code type the following commands inside the directory of the project:
 - make
 - cd bin
 - ./asm
